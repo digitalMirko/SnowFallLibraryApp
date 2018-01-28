@@ -30,6 +30,7 @@
 
     <com.jetradarmobile.snowfall.SnowfallView
         android:layout_width="match_parent"
-        android:layout_height="match_parent" />
+        android:layout_height="match_parent"
+        app:snowflakeImage="@drawable/snowflake268"/>
 
 </RelativeLayout>
